@@ -26,11 +26,8 @@ Cafe/
 ├── contacto.html     Contacto (formulario)
 ├── style.css         Hoja de estilos única
 ├── README.md
-├── img/
-│   ├── foto1.jpg     Área de mesas
-│   ├── foto2.jpg     Taza de café
-│   └── foto3.jpg     Pan dulce
-└── capturas/         Capturas de pantalla
+├── foto1.jpg, foto2.jpg, foto3.jpg            Fotos del sitio
+└── *-escritorio.png, *-movil.png              Capturas de pantalla
 ```
 
 ## Cumplimiento de la actividad
@@ -51,29 +48,29 @@ Cafe/
 
 **Inicio**
 
-![Inicio en escritorio](capturas/inicio-escritorio.png)
+![Inicio en escritorio](inicio-escritorio.png)
 
 **Productos**
 
-![Productos en escritorio](capturas/productos-escritorio.png)
+![Productos en escritorio](productos-escritorio.png)
 
 **Contacto**
 
-![Contacto en escritorio](capturas/contacto-escritorio.png)
+![Contacto en escritorio](contacto-escritorio.png)
 
 ### Móvil (390 px)
 
 **Inicio**
 
-![Inicio en móvil](capturas/inicio-movil.png)
+![Inicio en móvil](inicio-movil.png)
 
 **Productos**
 
-![Productos en móvil](capturas/productos-movil.png)
+![Productos en móvil](productos-movil.png)
 
 **Contacto**
 
-![Contacto en móvil](capturas/contacto-movil.png)
+![Contacto en móvil](contacto-movil.png)
 
 ## Resultados de validación
 
